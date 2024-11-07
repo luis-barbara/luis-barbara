@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## How to reach me:
+
+
+
+- Currently studying Web Development at Etic Algarve
 <!--
 **luis-barbara/luis-barbara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
